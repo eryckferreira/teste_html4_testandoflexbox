@@ -1,0 +1,51 @@
+/* Alguma regra de CSS */
+/* Exemplo 1 */
+.bg-highlight {
+  background-color: yellow;
+  text-transform: capitalize;
+}
+
+/* Exemplo 2 */
+.text-large {
+  font-size: 20px;
+  text-transform: capitalize;
+}
+
+.hex-color {
+  color: #888522;
+  text-transform: capitalize;
+}
+
+.bg-opacity {
+  background-color: #ffff0946;
+  text-transform: capitalize;
+}
+
+/* Exemplo 5 */
+.padding-example {
+  background-color: rosybrown;
+  padding: 20px;
+}
+
+.width-height-example {
+  background-color: blue;
+  width: 200px;
+  height: 350px;
+}
+
+/* Example 6 Absolute e Relative */
+.relative-example {
+  border: solid 5px #000;
+  width: 200px;
+  height: 200px;
+  position: relative;
+}
+
+.absolute-example {
+  background-color: red;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
